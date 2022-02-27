@@ -1,3 +1,8 @@
+#Instruction:
+
+Download .py file and double click/run the program. 
+
+
 # basic-calculator-
 
 This python program performs the function of a basic calculator with some advanced scientific calculator functions. 
